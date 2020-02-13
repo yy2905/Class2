@@ -3,6 +3,7 @@ https://tool.oschina.net/commons?type=3
 */
 
 body {
+  /*bg color: Azure blue*/
   background: #F0FFFF;
   font-family: Didot, serif;
   text-align: center;
@@ -24,6 +25,7 @@ body {
 }
 
 .d-list-item {
+  /*bg color: lavender*/
   background: #E6E6FA;
   border: 1px solid #F8F8FF;
   padding: 6px;
@@ -43,3 +45,4 @@ p {
 .d-list-item .d-name {
       font-size: 0.7rem
   }
+  
