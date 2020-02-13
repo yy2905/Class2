@@ -1,0 +1,41 @@
+body {
+  background: #F0FFFF;
+  font-family: Didot, serif;
+  text-align: center;
+}
+
+#d-list {
+  width: 35%;
+  float: right;
+  text-align: center;
+  display: inline-block;
+}
+
+#d-pics {
+  width: 60%;
+  height: 350px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.d-list-item {
+  background: #E6E6FA;
+  border: 1px solid #F8F8FF;
+  padding: 6px;
+  border-radius: 3px;
+  margin-bottom: 8px; 
+}
+
+.d-list-item: hover {
+  background-color: #FFEC8B;
+  cursor: pointer;
+}
+
+p {
+  margin: 1;
+}
+
+.d-list-item .d-name {
+      font-size: 0.7rem
+  }
